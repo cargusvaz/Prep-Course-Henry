@@ -1,2 +1,1 @@
-# Prep-Course-Henry
-Prep Course Henry
+Este proyecto es una prueba del uso de git
